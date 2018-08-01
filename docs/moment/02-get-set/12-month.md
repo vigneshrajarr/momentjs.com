@@ -33,4 +33,4 @@ moment([2012, 0, 31]).month(1).format("YYYY-MM-DD"); // 2012-03-02
 moment([2012, 0, 31]).month(1).format("YYYY-MM-DD"); // 2012-02-29
 ```
 
-**2.16.0** deprecated using ``moment().months()``. Use ``moment().month()`` instead.
+**2.10.0** deprecated using ``moment().months()``. Use ``moment().month()`` instead.
